@@ -10,6 +10,24 @@ A React Native app with Expo for calculating protein stability scores based on i
 - **Download and Share Results**: Download calculated stability scores as a JSON file and share results easily.
 - **User-Friendly Interface**: Intuitive and straightforward interface designed for mobile use.
 
+## Screenshots
+
+### Home Screen
+
+![alt text](image.png)
+
+### Data Input
+
+![alt text](image-1.png)
+
+### Calculation Results
+
+![Calculation Results](screenshots/
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+calculation_results.png)
+
 ## Prerequisites
 
 - **Node.js**: Ensure you have Node.js installed.
@@ -20,43 +38,46 @@ A React Native app with Expo for calculating protein stability scores based on i
 ### Backend
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/Protein-Stability-Calculator.git
-    cd Protein-Stability-Calculator/backend
-    ```
+
+   ```bash
+   git clone https://github.com/yourusername/Protein-Stability-Calculator.git
+   cd Protein-Stability-Calculator/backend
+   ```
 
 2. Install dependencies:
-    ```bash
-    npm install
-    ```
+
+   ```bash
+   npm install
+   ```
 
 3. Start the backend server:
-    ```bash
-    node server.js
-    ```
+   ```bash
+   node server.js
+   ```
 
 ### Frontend
 
 1. Navigate to the frontend directory:
-    ```bash
-    cd ../frontend
-    ```
+
+   ```bash
+   cd ../frontend
+   ```
 
 2. Install dependencies:
-    ```bash
-    npm install
-    ```
+
+   ```bash
+   npm install
+   ```
 
 3. Start the React Native app:
-    ```bash
-    expo start
-    ```
+
+   ```bash
+   expo start
+   ```
 
 4. Use the Expo Go app on your mobile device to scan the QR code and run the app.
 
 ## Directory Structure
-
-
 
 ## Usage
 
@@ -80,4 +101,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - **Developed by**: fpiscani@stem-apks.com
 - **React Native and Expo**: Built using React Native and Expo.
-
